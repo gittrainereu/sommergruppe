@@ -1,8 +1,8 @@
 test tgo for zeile 1 est
-test qbc new abc number 2
+test qbc new abc def number 2
 So
 
-so geht djo as
+so geht das auch
 new 5
 
 good 77 hallo
